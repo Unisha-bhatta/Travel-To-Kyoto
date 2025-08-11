@@ -20,3 +20,14 @@ Popular street foods.
 4.Call-to-Action Button – Directs visitors to more detailed information.
 
 5.Footer Links – Quick access to official tourism resources.
+
+# How to Use
+1.Open index.html in a web browser.
+
+2.Navigate through the carousel to see landmark images and descriptions.
+
+3.Browse the sections for travel ideas and cultural insights.
+
+4.Click More About Kyoto! for additional content.
+
+5.Use footer links for official travel guidance.
