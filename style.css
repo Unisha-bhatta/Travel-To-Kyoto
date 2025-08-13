@@ -32,8 +32,14 @@ section {
         }
     
 .carousel {
-    margin: 20px auto;      /* Adds top/bottom space and centers horizontally */
-    max-width: 90%;         /* Optional: shrink a bit for balanced sides */
-    border-radius: 20px;    /* Apply same corner radius to the entire carousel */
-    overflow: hidden;       /* Ensures rounded corners cut the image */
+    margin: 20px auto;
+    max-width: 90%;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
 }
