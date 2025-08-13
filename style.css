@@ -1,0 +1,20 @@
+body {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        color: #333;
+    }
+
+header {
+        text-align: center;
+        background: #f1c541;
+        padding: 5px;
+        color: white;
+    }
+
+header img {
+            width: 200px;
+            display: block;
+            margin: 0 auto 10px;
+        }
+    
