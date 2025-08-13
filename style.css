@@ -30,3 +30,10 @@ section {
             border-radius: 10px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
+    
+.carousel {
+    margin: 20px auto;      /* Adds top/bottom space and centers horizontally */
+    max-width: 90%;         /* Optional: shrink a bit for balanced sides */
+    border-radius: 20px;    /* Apply same corner radius to the entire carousel */
+    overflow: hidden;       /* Ensures rounded corners cut the image */
+}
