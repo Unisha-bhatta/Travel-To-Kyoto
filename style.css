@@ -43,3 +43,11 @@ section {
     height: 450px;
     object-fit: cover;
 }
+
+.card {
+ width: 18rem;
+min-height: 300px; /* Adjust height as needed */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
