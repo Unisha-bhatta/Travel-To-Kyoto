@@ -55,3 +55,13 @@ justify-content: space-between;
 .card:hover{
      transform: scale(1.05)
 }
+
+.shaded-section {
+    background-color: rgba(0, 0, 0, 0.05); /* Light gray transparent background */
+    border-radius: 10px;                   /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Soft shadow for card effect */
+}
+
+ol, ul {
+    margin: 15px 0;
+}
