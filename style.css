@@ -65,3 +65,27 @@ justify-content: space-between;
 ol, ul {
     margin: 15px 0;
 }
+
+iframe {
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+footer {
+    text-align: center;
+    background-color: #222;
+    color: white;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #ffcc33;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: 0.3s;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
